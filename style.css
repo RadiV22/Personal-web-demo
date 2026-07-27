@@ -113,7 +113,6 @@ p {
     border: 1px solid #dddddd;
     border-radius: 10px;
     background-color: #ffffff;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .feature-icon {
